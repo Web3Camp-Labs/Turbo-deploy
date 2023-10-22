@@ -392,7 +392,7 @@ export default function Home(){
                         <Col>
                             <CenterBox>
                                 <TipsTop>
-                                    <div>Export ERC20 Abi: <a href="/NEW_ERC20.json" target="_blank" rel="noreferrer">ERC20 ABI</a></div>
+                                    <div>Export ERC20 Abi: <a href="https://web3camp.us/Turbo-deploy/NEW_ERC20.json" target="_blank" rel="noreferrer">ERC20 ABI</a></div>
                                     <div>We would recommend utilizing the <a href="https://web3camp.us/oneclick-dapp" target="_blank" rel="noreferrer">oneClick</a> DApp for invoking and validating the contract.</div>
                                 </TipsTop>
                             </CenterBox>
