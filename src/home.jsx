@@ -358,7 +358,7 @@ export default function Home(){
                 </Lft>
                 <BoxRht >
                     {
-                        !!chainName.length && <ChainBox>
+                        !!chainName?.length && <ChainBox>
                             {chainName}
                         </ChainBox>
                     }
